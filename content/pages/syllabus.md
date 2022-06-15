@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on course meeting times, grading, requirements,
+  and the schedule of course topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -52,7 +54,7 @@ Term Paper
 
 ### Seminar Presentation
 
-At least one seminar presentation is required during the term. The paper should be 20-30 minutes in presentation time. An outline or handout must be prepared for distribution to all participants at the seminar in which it will be presented. Discussion will follow. A written version of the paper should be handed in no later than one week after your presentation. Please see [assignments]({{< baseurl >}}/pages/assignments) for possible topics.
+At least one seminar presentation is required during the term. The paper should be 20-30 minutes in presentation time. An outline or handout must be prepared for distribution to all participants at the seminar in which it will be presented. Discussion will follow. A written version of the paper should be handed in no later than one week after your presentation. Please see {{% resource_link ef3246bd-be51-5d8e-0b64-7ebb34f2b787 "assignments" %}} for possible topics.
 
 ### Term Paper
 
