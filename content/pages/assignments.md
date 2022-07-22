@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on seminar presentations and the required
+  term paper for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: ef3246bd-be51-5d8e-0b64-7ebb34f2b787
 ---

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides links to related resources in the Stanford Encyclopedia
+  of Philosophy.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: a77b113a-1150-df42-b65f-d76b5707905e
 ---
