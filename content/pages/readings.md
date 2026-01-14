@@ -46,9 +46,9 @@ Plato
 {{< tdopen >}}
 
 
-Plato's {{% resource_link "0ac96f13-3733-4e91-8b8f-5c1aadf8f16d" "_Meno_" %}}, especially 80d-100b.
+Plato's [_Meno_](http://www.gutenberg.org/ebooks/1643), especially 80d-100b.
 
-Leibniz, Gottfried Wilhelm. {{% resource_link "2f125d38-b15f-45e0-a37b-34398d7e27c0" "_Discourse on Metaphysics_" %}}. Sections XXVI-XXVII.
+Leibniz, Gottfried Wilhelm. [_Discourse on Metaphysics_](https://www.earlymoderntexts.com/assets/pdfs/leibniz1686d.pdf). Sections XXVI-XXVII.
 
 Fine, Gail. "Inquiry in the Meno." In _Cambridge Companion to Plato._ Edited by Richard Kraut. Cambridge, UK: Cambridge University Press, 1992. ISBN: 0521436109.
 
@@ -66,7 +66,7 @@ Descartes
 {{< tdopen >}}
 
 
-Descartes, Rene. {{% resource_link "d4bcf538-44c2-4f46-a283-3f092d99e932" "_Meditations I-II_" %}}.
+Descartes, Rene. [_Meditations I-II_](http://www.wright.edu/cola/descartes/mede.html).
 
 Williams, Bernard. _Descartes: The Project of Pure Enquiry_. Revised ed. London, UK: Routledge, 2005. ISBN: 041535627X.
 
@@ -106,9 +106,9 @@ Hume and the Positivists
 {{< tdopen >}}
 
 
-Hume, David. _A Treatise of Human Nature_. New York, NY: Oxford University Press, 2000, book 1, part 1. ISBN: 0198751729. Also available at {{% resource_link "10277e57-0b0a-431e-84a0-ebb0f4c6c721" "Project Gutenberg" %}}, 2003.
+Hume, David. _A Treatise of Human Nature_. New York, NY: Oxford University Press, 2000, book 1, part 1. ISBN: 0198751729. Also available at [Project Gutenberg](http://www.gutenberg.org/etext/4705), 2003.
 
-Hume, David. _An Enquiry Concerning Human Understanding_. New York, NY: Oxford University Press, 1999, sections 2 and 4. ISBN: 0198752482. Also available at {{% resource_link "64d5e91b-fc39-4494-b3cc-1dd3c5ccfa80" "Project Gutenberg" %}}, 2006.
+Hume, David. _An Enquiry Concerning Human Understanding_. New York, NY: Oxford University Press, 1999, sections 2 and 4. ISBN: 0198752482. Also available at [Project Gutenberg](http://www.gutenberg.org/etext/9662), 2006.
 
 Ayer, Alfred J. "The A Priori." Chapter 4 in _Language, Truth and Logic_. Mineola, NY: Dover Publications, 1952. ISBN: 0486200108.
 
